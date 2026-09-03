@@ -1,0 +1,14 @@
+{
+  "name": "FakeNitro Mobile",
+  "description": "Revenge mobile port of the core FakeNitro idea: client-side emoji/sticker link sending and selected Nitro capability bypasses.",
+  "authors": [
+    {
+      "name": "ChatGPT",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_nitro"
+  }
+}
